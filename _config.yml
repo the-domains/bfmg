@@ -1,14 +1,14 @@
 layout_spectrum: 0.5421585
+typography_spectrum: 0.5300161
 color:
   saturation: 0.3783536
   lightness: 0.5650656
   brandStrength: 0.6338313
-  rhythmicContrast: 0.4673093
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-typography_spectrum: 0.5300161
+    - '#EEF1F8'
+    - '#2B3F34'
+    - '#868FCA'
+    - '#01C6FB'
+    - '#B0052D'
+  rhythmicContrast: 0.4673093
 name: BFMG
