@@ -10,17 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.5300161
 color:
   saturation: 0.3783536
   brandStrength: 0.6338313
   lightness: 0.5650656
   brandColors:
-    - '#000000'
-    - '#FFFFFF'
-    - '#125688'
-    - '#CDC7BB'
-    - '#89775F'
+    - '#8794A6'
+    - '#547CC2'
+    - '#C7D4E7'
+    - '#0E0F13'
+    - '#44494D'
   rhythmicContrast: 0.4673093
+typography_spectrum: 0.5300161
 layout_spectrum: 0.5421585
 name: BFMG
