@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.5300161
 color:
   saturation: 0.3783536
   brandStrength: 0.6338313
   lightness: 0.5650656
   brandColors:
-    - '#80B3EC'
-    - '#24272E'
-    - '#BBE5FB'
-    - '#597EB5'
-    - '#985A65'
+    - '#150B09'
+    - '#50433B'
+    - '#AB7F05'
+    - '#FFDB04'
+    - '#FFFFD1'
   rhythmicContrast: 0.4673093
+typography_spectrum: 0.5300161
 layout_spectrum: 0.5421585
 name: BFMG
