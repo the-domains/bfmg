@@ -1,14 +1,26 @@
-layout_spectrum: 0.5421585
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.5300161
 color:
   saturation: 0.3783536
-  lightness: 0.5650656
   brandStrength: 0.6338313
+  lightness: 0.5650656
   brandColors:
-    - '#EEF1F8'
-    - '#2B3F34'
-    - '#868FCA'
-    - '#01C6FB'
-    - '#B0052D'
+    - '#80B3EC'
+    - '#24272E'
+    - '#BBE5FB'
+    - '#597EB5'
+    - '#985A65'
   rhythmicContrast: 0.4673093
+layout_spectrum: 0.5421585
 name: BFMG
